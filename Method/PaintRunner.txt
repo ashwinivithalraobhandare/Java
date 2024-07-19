@@ -1,0 +1,8 @@
+class PaintRunner{
+	public static void main(String[] args){
+		Paint.sketch("Asian paints");
+		Paint.sketch("Asian paints","Red");
+		Paint.sketch("Asian paints",1500);
+		Paint.sketch("red","water proof",2500);
+	}
+}
