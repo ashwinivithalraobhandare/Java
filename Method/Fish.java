@@ -1,4 +1,4 @@
-class Fish
+class Fish 
 {
 String name;
 String size;
